@@ -79,7 +79,7 @@ Designed, implemented and operated production integrations across:
 
 ![Laravel Queue](https://img.shields.io/badge/Laravel%20Queue-FF2D20?style=flat-square&logo=laravel&logoColor=white)
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white)
-![Beanstalkd](https://img.shields.io/badge/Beanstalkd-46A848?style=flat-square&logoColor=white)
+![Beanstalk](https://img.shields.io/badge/Beanstalk-46A848?style=flat-square&logoColor=white)
 ![Amazon SQS](https://img.shields.io/badge/Amazon%20SQS-FF4F8B?style=flat-square&logo=amazonsqs&logoColor=white)
 
 ### Cloud & Infrastructure
