@@ -48,6 +48,7 @@ Designed, implemented and operated production integrations across:
 #### Python
 
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white)
 
 ### API & Documentation
 
@@ -65,7 +66,6 @@ Designed, implemented and operated production integrations across:
 
 ![Puppeteer](https://img.shields.io/badge/Puppeteer-40B5A4?style=flat-square&logo=puppeteer&logoColor=white)
 ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white)
 ![CloakBrowser](https://img.shields.io/badge/CloakBrowser-111827?style=flat-square&logo=chromium&logoColor=white)
 
 ### Databases
