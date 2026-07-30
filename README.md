@@ -3,7 +3,7 @@
 **Team Lead & Senior Full-Stack Engineer** — 9 years of building and operating production systems with **PHP / Laravel** and **Node.js**.
 
 - 🚤 Currently **Technical Lead at [SailAtlas](https://sailatlas.app)** — a multi-tenant SaaS platform for yacht charter companies: fleet, bookings, crew, finance, check-in/out, inventory, CRM and maintenance. 176 models · 86 services · 9 API surfaces (admin, customer & crew mobile, operations app, booking widget, public site, super-admin).
-- ⚙️ I care about clean architecture (Service–Repository–Controller), strict quality gates (**PHPStan L7, Pint, GrumPHP, Sentry**) and boring, reliable releases (**Forge + Envoyer**, zero-downtime, test-gated prod deploys).
+- ⚙️ I care about clean architecture, **SOLID** and **DRY** principles, and the pragmatic use of proven design patterns — **Repository, Strategy, Factory, Adapter, Observer, Decorator and Command** — to build maintainable, testable and scalable systems.
 - 📡 Real-time & offline-first: self-hosted **Laravel Reverb** WebSockets, **FCM / Expo** push pipelines, self-hosted **PowerSync** for offline mobile.
 - 🌍 Previously: KYC & identity verification at **IDVerse** (London), SSO & adtech at **Teknasyon**, web-scale scraping — **1M+ pages/day** — at **Fizbot**, martech at **Insider**.
 
