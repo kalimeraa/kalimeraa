@@ -28,7 +28,13 @@
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![Ratchet PHP](https://img.shields.io/badge/Ratchet%20PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 ![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=flat-square&logo=socketdotio&logoColor=white)
+
+### API & Documentation
+
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black)
 
 ### Frontend
 
@@ -64,6 +70,7 @@
 
 ![Laravel Queue](https://img.shields.io/badge/Laravel%20Queue-FF2D20?style=flat-square&logo=laravel&logoColor=white)
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white)
+![Beanstalkd](https://img.shields.io/badge/Beanstalkd-46A848?style=flat-square&logoColor=white)
 ![Amazon SQS](https://img.shields.io/badge/Amazon%20SQS-FF4F8B?style=flat-square&logo=amazonsqs&logoColor=white)
 
 ### Cloud & Infrastructure
@@ -72,6 +79,7 @@
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
 ![Apache](https://img.shields.io/badge/Apache-D22128?style=flat-square&logo=apache&logoColor=white)
+![Supervisor](https://img.shields.io/badge/Supervisor-2B2F33?style=flat-square&logo=linux&logoColor=white)
 
 ### Containers & Orchestration
 
