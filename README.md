@@ -12,7 +12,7 @@
 Designed, implemented and operated production integrations across:
 
 - **Productivity & delivery:** Google Drive API, Google Calendar API, Firebase Cloud Messaging (FCM), Web Push and Mailchimp API.
-- **Messaging & social:** Twilio WhatsApp API, Meta WhatsApp Cloud API and Instagram Graph API.
+- **Messaging & social:** Twilio WhatsApp API, Meta WhatsApp Cloud API, Instagram Graph API and Telegram Bot API.
 - **Yacht-charter platforms:** [MMK Booking Manager](https://www.booking-manager.com/) and [NauSYS](https://www.nausys.com/) APIs.
 - **Payments:** [iyzico](https://www.iyzico.com/), [PayTR](https://www.paytr.com/) and [Param](https://param.com.tr/) payment gateway integrations.
 
