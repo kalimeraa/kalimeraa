@@ -23,6 +23,7 @@
 ### Backend & Frameworks
 
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![Laravel Reverb](https://img.shields.io/badge/Laravel%20Reverb-FF2D20?style=flat-square&logo=laravel&logoColor=white)
 ![Yii2](https://img.shields.io/badge/Yii2-40B3D8?style=flat-square&logo=yii&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
