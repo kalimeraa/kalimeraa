@@ -108,6 +108,8 @@ Designed, implemented and operated production integrations across:
 
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
+![Laravel Forge](https://img.shields.io/badge/Laravel%20Forge-1EB786?style=flat-square&logo=laravel&logoColor=white)
+![Laravel Envoyer](https://img.shields.io/badge/Laravel%20Envoyer-4F46E5?style=flat-square&logo=laravel&logoColor=white)
 ![Bitbucket Pipelines](https://img.shields.io/badge/Bitbucket%20Pipelines-0052CC?style=flat-square&logo=bitbucket&logoColor=white)
 ![GitLab CI](https://img.shields.io/badge/GitLab%20CI-FC6D26?style=flat-square&logo=gitlab&logoColor=white)
 
