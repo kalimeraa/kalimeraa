@@ -7,6 +7,15 @@
 - 📡 Real-time & offline-first: self-hosted **Laravel Reverb** WebSockets, **FCM / Expo** push pipelines, self-hosted **PowerSync** for offline mobile.
 - 🌍 Previously: KYC & identity verification at **IDVerse** (London), SSO & adtech at **Teknasyon**, web-scale scraping — **1M+ pages/day** — at **Fizbot**, martech at **Insider**.
 
+## 🔌 Integration Experience
+
+Designed, implemented and operated production integrations across:
+
+- **Productivity & delivery:** Google Drive API, Google Calendar API, Firebase Cloud Messaging (FCM), Web Push and Mailchimp API.
+- **Messaging & social:** Twilio WhatsApp API, Meta WhatsApp Cloud API and Instagram Graph API.
+- **Yacht-charter platforms:** [MMK Booking Manager](https://www.booking-manager.com/) and [NauSYS](https://www.nausys.com/) APIs.
+- **Payments:** [iyzico](https://www.iyzico.com/), [PayTR](https://www.paytr.com/) and [Param](https://param.com.tr/) payment gateway integrations.
+
 ## 🔧 Open Source
 
 - **[grumphp-laravel-translation-checker](https://github.com/kalimeraa/grumphp-laravel-translation-checker)** — GrumPHP task that validates Laravel translation files on every commit: missing keys, duplicate keys, locale sync across languages.
