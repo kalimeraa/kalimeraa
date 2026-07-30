@@ -33,12 +33,12 @@ Designed, implemented and operated production integrations across:
 
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
 ![Laravel Reverb](https://img.shields.io/badge/Laravel%20Reverb-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![Ratchet PHP](https://img.shields.io/badge/Ratchet%20PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 ![Yii2](https://img.shields.io/badge/Yii2-40B3D8?style=flat-square&logo=yii&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![Ratchet PHP](https://img.shields.io/badge/Ratchet%20PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 ![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=flat-square&logo=socketdotio&logoColor=white)
 
 ### API & Documentation
